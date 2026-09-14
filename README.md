@@ -1,69 +1,38 @@
-# Hi, I'm Upeksha
-
-### Computer Science Undergraduate | Software Development | Data & AI
-
-I'm a Computer Science undergraduate at the **University of Peradeniya**, interested in building practical software solutions and exploring **Data, AI, and modern software technologies**.
-
-- 🎓 BSc (Hons) in Computer Science Undergraduate
-- 🏫 University of Peradeniya
-- 💻 Interested in Software Development, Data & AI
-- 🌱 Currently expanding my knowledge in software engineering and intelligent systems
-- 🚀 I enjoy learning by building projects and solving problems
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,dart,typescript" />
-</p>
-
-### Technologies & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,flutter" />
-</p>
-
-### Data & Development
-`Python` `SQL` `Statistics` `Data Analysis` `Problem Solving`
-
----
-
-## 📌 Featured Projects
-
-### 🤖 AI-Powered Problem Solver
-An AI-focused project exploring intelligent approaches to problem solving.
-
-### 🌐 My Portfolio
-My personal portfolio showcasing my projects, skills, and academic journey.
-
-### 📱 UNP
-A project developed using **Dart**.
-
-### ☕ UOP Sem3
-A Java-based university project developed as part of my academic work.
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi, I'm Sandami Upeksha 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandamiUpeksha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandamiUpeksha&layout=compact&theme=tokyonight&hide_border=true" />
+  <b>Computer Science Undergraduate · Software Developer · Tech Explorer</b>
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+  <a href="https://github.com/SandamiUpeksha">GitHub</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### 👩‍💻 About
 
-<p>
-  <a href="https://github.com/SandamiUpeksha">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Computer Science undergraduate at the **University of Peradeniya**, passionate about building practical software, solving problems, and exploring **AI, data, and modern technologies**.
+
+### ⚡ Tech
+
+`Python` `Java` `Dart` `TypeScript` `SQL` `Git` `GitHub`
+
+### 🚀 What I'm building
+
+- 🤖 AI-powered applications
+- 💻 Software & web projects
+- 📊 Data-driven solutions
+- 🌱 Continuously learning & experimenting
 
 ---
 
 <p align="center">
-  <i>Learning • Building • Improving</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=SandamiUpeksha&show_icons=true&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <i>Build • Learn • Experiment • Repeat</i>
 </p>
