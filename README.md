@@ -14,11 +14,11 @@
 
 ### 👩‍💻 About
 
-Computer Science undergraduate at the **University of Peradeniya**, passionate about building practical software, solving problems, and exploring **AI, data, and modern technologies**.
+ Undergraduate at the **University of Peradeniya**, passionate about building practical software, solving problems, and exploring **AI, data, and modern technologies**.
 
 ### ⚡ Tech
 
-`Python` `Java` `Dart` `TypeScript` `SQL` `Git` `GitHub`
+`Python` `Java` `Dart` `TypeScript` `SQL` `Git` `GitHub` `C` `R` 
 
 ### 🚀 What I'm building
 
